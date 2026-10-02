@@ -1,3 +1,3 @@
-module github.com/notifnepal/scrappie
+module scrappie
 
 go 1.25.5
